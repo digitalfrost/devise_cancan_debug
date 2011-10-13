@@ -2,6 +2,7 @@
 log/*
 tmp/*
 *~
+*.swp
 TODO.txt
 pendencias.txt
 coverage/*
